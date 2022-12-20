@@ -1,0 +1,2 @@
+rm_conffile /etc/xdg/calendarsupport.categories 4:20.04.1-2~
+rm_conffile /etc/xdg/calendarsupport.renamecategories 4:20.04.1-2~
